@@ -231,16 +231,16 @@ void main()
   Output:0 or 42*/
 
   //Tutorial2-Challenges-Question2
-  /*Name n1=Name(givenName:"Aadit");
-  Name n2=Name(givenName:"Aadit",surname:"Patel");
-  Name n3=Name(givenName:"Aadit",surname:"Baldha",surnameIsFirst:true);
+  /*Name n1=Name(givenName:"Gautam");
+  Name n2=Name(givenName:"Gautam",surname:"Patel");
+  Name n3=Name(givenName:"Gautam",surname:"Rathod",surnameIsFirst:true);
 
   print(n1);
   print(n2);
   print(n3);
   
-  Output: Name(Aadit)
-          Name(Aadit Patel)
-          Name(Baldha Aadit)
+  Output: Name(Gautam)
+          Name(Gautam Patel)
+          Name(Rathod Gautam)
   */
 }
